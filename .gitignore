@@ -4,4 +4,6 @@ ScriptLearning\.iml
 out
 
 \.idea/
-\.src/
+
+
+src/com/company/Main\.java
