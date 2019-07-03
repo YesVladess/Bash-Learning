@@ -1,1 +1,2 @@
-Проект для обучения написанию Bash скриптов
+# Bash-Learning
+Learning to write Bash scripts
